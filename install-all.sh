@@ -7,3 +7,5 @@
 
 ./install-go.sh
 
+./install-oc-devtools.sh
+
